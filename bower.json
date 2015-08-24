@@ -6,7 +6,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "jquery": "~2.1.4",
     "less": "~2.5.1"
   }
 }
